@@ -1,16 +1,16 @@
 const slides = [{
-    slideBackground: "url('pictures/picture_1.png')",
+    slideBackground: "url('/pictures/picture_1.png')",
     text: "slide 1"
    
 },{
-    slideBackground: "url('pictures/picture_2.png')",
+    slideBackground: "url('/pictures/picture_2.png')",
     text: "slide 2"
    
 },{
-    slideBackground: "url('pictures/picture_3.png')",
+    slideBackground: "url('/pictures/picture_3.png')",
     text: "slide 3"
 },{
-    slideBackground: "url('pictures/picture_4.png')",
+    slideBackground: "url('/pictures/picture_4.png')",
     text: "slide 4"
 }
 ]
